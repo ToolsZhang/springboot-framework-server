@@ -19,10 +19,10 @@ public class RestAdminApplication {
         ApplicationContext context = SpringApplication.run(RestAdminApplication.class, args);
 //        Arrays.stream(context.getBeanDefinitionNames()).forEach(System.out::println);
         System.out.println("(♥◠‿◠)ﾉﾞ  RestAdmin启动成功   ლ(´ڡ`ლ)ﾞ  \n" +
-                "    ____             __  ___       __          _          \n" +
-                "   / __ \\___  _____/ /_/   | ____/ ____ ___  (_____      \n" +
-                "  / /_/ / _ \\/ ___/ __/ /| |/ __  / __ `__\\/ / __ \\     \n" +
-                " / _, _/  ___(__  / /_/ ___ / /_/ / / / / / / / / / /     \n" +
-                "/_/ |_|\\___/____/\\_/_/  |_\\_,_/_/ /_/ /_/_/_/ /_/  ");
+                "    ____            __  ___       __          _          \n" +
+                "   / __ \\___  _____/ /_/   | ____/ /___ ___  (_)____      \n" +
+                "  / /_/ / _ \\/ ___/ __/ /| |/ __  / __ `__ \\/ / __  \\     \n" +
+                " / _, _/ ___(__  / /_/ ___ / /_/ / / / / / / / / / /     \n" +
+                "/_/ |_|\\___/____/ \\_/_/  |_ \\_,_/_/ /_/ /_/_/_/ /_/  ");
     }
 }
